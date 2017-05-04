@@ -8,6 +8,7 @@ include_once 'admin/config/DBconfig.php';
 include_once 'admin/system/my_database.php';
 
 //请在网站正式上线时开启下面的函数，关闭错误报告
+//添加一条注释
 error_reporting(0);
 
 //实例化数据库对象
